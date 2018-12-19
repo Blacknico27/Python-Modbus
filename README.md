@@ -4,5 +4,5 @@ Modbus request example using Python language
 
 Required :
 pymodbus library
-apt-get install python-pymodbus
 
+apt-get install python-pymodbus
